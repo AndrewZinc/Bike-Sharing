@@ -20,7 +20,7 @@ After the duration data was converted, the dataset was exported from Jupyter Not
 #### Tableau Public Presentation
 The published presentation is available via this link: 
 
-![Link to Dashboard](https://public.tableau.com/app/profile/andrew.zinc/viz/NYCCitiBike_16668175975740/NYCBikeSharing)
+[Link to Dashboard](https://public.tableau.com/app/profile/andrew.zinc/viz/NYCCitiBike_16668175975740/NYCBikeSharing)
 
 #### Demographics
 The analysis reveals that the majority of users are Male, and subscribers.  With a view of user age and riding duration, we see that younger users ride longer.
